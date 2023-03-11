@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+.prof{
+  background-color: bisque;
+  justify-content: space-between;
+ padding: 30px;
+}
+.bio{
+  text-align: center;
+}
